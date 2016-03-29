@@ -1,7 +1,7 @@
 name: Obsessively Geek
 favicon: null
 layout_spectrum: 0.3597656439524144
-typography_spectrum: 0.528846908826381
+typography_spectrum: 0.60267
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.06814759713597596
+    - '#560000'
+    - '#ffffff'
+    - '#bb9898'
+    - '#7d3b3b'
+    - '#ddcccc'
+  brandStrength: 0.125
   lightness: 0.8134124448988587
   saturation: 0.6255938650574535
   rhythmicContrast: 0.42819121363572776
