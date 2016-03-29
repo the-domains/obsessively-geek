@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Obsessively Geek]]></title>
+        <description><![CDATA[Obsessively Geek]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 17:30:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your Source For 3D Printing, Rapid Prototyping Services, and Products]]></title>
+            <description><![CDATA[<article><h1>Your Source For 3D Printing, Rapid Prototyping Services, and Products</h1><p>Welcome to M&A 3D. We specialize in 3D Printing, Rapid Prototyping Services, and Products. Our team has worked in 3D Printing for years. We bring experience in Materials, Manufacturing, Quality Optimization, R&D, and Product Management all in one place. </p></article>]]></description>
+            <link>undefinedwelcome-to-manda-3d-we-specialize-in-3d-printing-rapid-proto/index.html</link>
+            <guid isPermaLink="false">51e29c6a-23ae-4243-91cf-2b6251ba2f5f</guid>
+            <pubDate>Tue, 29 Mar 2016 17:29:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
